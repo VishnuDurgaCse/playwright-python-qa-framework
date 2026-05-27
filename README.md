@@ -92,7 +92,7 @@ Open reports/report.html in browser after running tests
 
 ## 📸 Sample Report
 
-![Test Report](test_report.png)
+![Test Report](test_report1.png)
 
 ---
 
